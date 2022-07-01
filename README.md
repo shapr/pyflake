@@ -1,0 +1,2 @@
+# pyflake
+nix flakes python
